@@ -12,6 +12,10 @@
 
 ### Dataset Download Link : http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/0oZP2vkXvQ13fgGUEO/giphy-downsized-large.gif" width="200"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/omar-moustafa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/omar-moustafa" height="30" width="40" /></a>
